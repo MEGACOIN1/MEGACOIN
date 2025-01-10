@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MegaCoin</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <img src="logo.png" alt="شعار MegaCoin" style="height: 60px; width: auto;">
+        <h1>مرحبًا بك في MegaCoin</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">الرئيسية</a></li>
+                <li><a href="buy-sell.html">البيع والشراء</a></li>
+                <li><a href="white-paper.html">White Paper</a></li>
+                <li><a href="details.html">تفاصيل العملة</a></li>
+                <li><a href="mailto:info@megacoin.com">البريد الإلكتروني</a></li>
+                <li><a href="https://t.me/MEGACOIN" target="_blank">تليغرام</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <h2>استثمر بذكاء مع MegaCoin</h2>
+            <p>ابدأ رحلتك المالية مع مشروع MegaCoin الآن!</p>
+            <a href="buy-sell.html" class="btn-primary">شراء MegaCoin</a>
+        </section>
+    </main>
+
+    <footer>
+        <p>جميع الحقوق محفوظة &copy; 2025 - MegaCoin</p>
+        <p>تابعنا على <a href="https://t.me/MEGACOIN" target="_blank">تليغرام @MEGACOIN</a></p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
